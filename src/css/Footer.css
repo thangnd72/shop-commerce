@@ -1,0 +1,39 @@
+#footer {
+    background-color: #222;
+    color: #EEE;
+    min-height: 250px;
+    text-align: center;
+    padding-bottom: 3rem;
+}
+#footer h4 {
+    margin-top: 3rem;
+    font-size: 1.4rem;
+}
+#footer ul {
+    margin-top: 3rem;
+}
+#footer ul li {
+    margin-top: 1rem;
+}
+#footer ul li a{
+    color: #AAA;
+    font-size: 1.2rem;
+}
+.socials {
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+.socials a {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 4.5rem;
+    height: 4.5rem;
+    background: #FFF;
+    border-radius: 50%;
+    color: #AAA;
+    font-size: 1.2rem;
+    text-decoration: none;
+    margin-left: 1.2rem;
+}
